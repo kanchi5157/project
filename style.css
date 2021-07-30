@@ -1,0 +1,340 @@
+.navbar-nav {
+	     font-size: 12px;
+         letter-spacing: 1px;
+         color: #2c2d2f;
+         font-weight: 600;
+         margin-left: auto;
+	     margin-right: auto;
+           }
+.color-white  {
+	     color: #fff;
+           }
+
+i  {
+	    color: #6e6969;
+        color: #6e6969;
+        padding: 0px 15px 0px 15px;
+          }
+.bg .col-lg-8  {
+	       display: contents;
+         }
+h1  {
+	    font-size: 50px;
+        letter-spacing: 23px;
+        line-height: 65px;
+        color: #2c2d2f;
+        font-weight: 700;
+        font-family: "Playfair Display";
+        text-align: center;
+      }
+   ul {
+	   text-align: center;
+      }
+   .lk {
+   	   border-top: 1px solid #e1e1e1;
+       border-bottom: 1px solid #e1e1e1;
+   }
+  .cat {
+  	   padding: 40px 20px 0px 20px;
+  }
+   h2 {
+       font-size: 34px;
+       line-height: 45px;
+       color: #2c2d2f;
+       font-weight: 800;
+
+   }
+   button {
+   	  border: none;
+      background: #fff;
+      font-weight: 500;
+      text-transform: capitalize;
+   }
+   p {
+   	  font-size: 16px;
+      color: #b2acac;
+   }
+   .bg {
+   	  display: contents;
+   }
+   footer {
+   	  background-color: #ecebeb;
+   }
+  
+ 
+   h5 {
+   	  font-size: 24px;
+      line-height: 44px;
+      color: #ffffff;
+      font-weight: 800;
+      font-family: 'Montserrat', sans-serif;
+      text-align: center;
+   }
+   footer p {
+  	 font-size: 13px;
+     line-height: 27px;
+     color: #c5c7c9;
+     font-weight: 400;
+     font-family: 'Montserrat', sans-serif;
+     text-align: center;
+   }
+   h1 h2 h3 h4 h5 h6 {
+   	  font-family: 'Montserrat', sans-serif !important;
+   }
+   .kk {
+    	text-align: center;
+   	    margin: 40px 0 40px 0;
+   }
+   footer ul {
+   	   display: flex;
+   }
+   footer li {
+     padding: 0px 12px 0px 12px;
+     overflow: hidden;
+     text-align: center;
+     font-family: 'FontAwesome';
+     font-weight: 700;
+   }
+   .text-center {
+   	 text-align: center;
+   	 margin-left: auto;
+    margin-right: auto;
+   }
+   input  {
+     background: transparent;
+     text-align: center;
+     border: none;
+   }
+   .lp {
+   	 border-top: 1px solid #666;
+     border-bottom: 1px solid #666;
+     max-width: 240px;
+     margin-right: auto;
+     margin-left: auto;
+   }
+   .lp i {
+   	 float: right;
+   	 color: #fff;
+   	 padding: 5px 10px 5px 10px;
+
+   }
+   footer h4 {
+   	 font-family: ;
+   }
+   .box {
+   	  display: flex;
+   	  max-width: fit-content;
+   }
+  .box img {
+      width: 350px;
+      max-height: 400px;
+}
+    .insta img {
+    	max-width: 150px;
+    	max-height: 150px;
+    }
+    .insta{
+        background-color: #fffefe;
+        padding: 20px 20px 20px 20px;
+        max-width: fit-content;
+        position: absolute;
+        margin: 100px 0px 0px -50px;
+
+    }
+    .insta p {
+         transform: rotate(90deg);
+         display: inline-block;
+         margin: 0px 0px 0px -35px;
+
+    }
+.box2 img {
+	       max-width: -webkit-fill-available;
+
+}
+.box2 .kk p1 {
+	       font-size: 10px;
+	       text-align: center;
+        color: #bdbdbd;
+}
+.box2 .kk  {
+	       text-align: center;
+}
+
+.box2 .kk {
+       text-align: center;
+       background-color: #898282 !important;
+       margin-top: -50px;
+       max-width: 600px;
+       z-index: 99999;
+       margin-left: auto;
+       margin-right: auto;
+       padding: 20px 20px 20px 20px;
+}
+.kk .button {
+	      color: #fff;
+       background: #000;
+       border-radius: 50px;
+       padding: 10px 0px 10px 0px;
+}
+.kk .button i {
+	      color: #fff;
+}
+.kk p1 {
+	      font-size: 10px;
+       color: #bdbdbd;
+}
+ .card1 {
+       background-image: url(asserts/footer.png);
+       margin: auto;
+       height: 250px;
+       max-width: 500px;
+       border-radius: 10px;
+   
+   }
+
+footer .content {
+	      padding: 38px;
+       max-height: 250px;
+       background-color: #000000b0;
+       border-radius: 10px;
+}
+input::placeholder {
+	      color: #bab1b1;
+	      font-size: 13px;
+       line-height: 28px;
+       font-weight: 400;
+      text-align:left;
+}
+.col-lg-4 .jb {
+      font-family: 'Montserrat';
+      padding: 30px 0px 15px 0;
+   
+}
+.text-center h3 .jb::before {
+   border-bottom: 1px solid #262626;
+}
+
+ .col-lg-4 h3 img {
+
+      padding: 40px 0px 15px 2px;
+}
+/* .col-lg-4 {
+    margin: auto;
+ }*/
+
+    ul {
+      display: flex;
+   }
+    li {
+    padding: 0px 12px 0px 12px;
+    overflow: hidden;
+    text-align: center;
+   }
+   li i {
+    background: #dfdfdf;
+    padding: 15px;
+    border-radius: 8px;
+   }
+   .kn {
+     background-image: url(asserts/sl.png);
+     max-width: 290px;
+    height: 350px;
+    margin: auto;
+   }
+   .cn {
+    padding: 50px 0px 0px 0px;
+    max-width: 290px;
+    height: 350px;
+    margin: auto;
+    background: #1504047d;
+   }
+   .kn .cn a {
+    text-decoration: none;
+    color: #fff;
+    background: #ffffff73;
+    padding: 10px 20px 10px 20px;
+    border-radius: 50px;
+    text-transform: capitalize;
+   }
+   .fit img {
+       margin-right: auto;
+    margin-left: auto;
+    display: block;
+   }
+
+  .ko .kj {
+ text-decoration: none;
+    color: #848484;
+    border-radius: 15px;
+    background: #e4dede;
+    padding: 10px 50px 10px 50px;
+    width: 200px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 600;
+    margin-bottom: 15px;
+   }
+   .ko .kjk {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 15px;
+    background: #000;
+     width: 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 600;
+    margin-bottom: 15px;
+   }
+   .insta1 {
+    background-color: #fffefe;
+    padding: 20px 20px 20px 20px;
+    max-width: fit-content;
+    /* position: absolute; */
+    margin: auto;
+   }
+   .insta1 img {
+        max-width: 150px;
+    max-height: 150px;
+    padding: 5px;
+   }
+   .as {
+font-size: 15px;
+    font-family: revert;
+   }
+   .list {
+    display: inline-flex;
+    padding: 10px 0px 5px 0px;
+   }
+   .yk {
+    padding: 0px 0px 0px 20px;
+    text-align: left;
+   }
+
+   .font {
+    font-family: 'WindSong', cursive;
+   }
+   .card2 {
+    height: 250px;
+    margin: auto;
+    max-width: 500px;
+   }
+  footer li i {
+    background: none;
+  }
+  .mn {
+   display: block;
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+  }
+  .bv{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 6px;
+    display: flex;
+  }
+  .bv1 {
+   float: left;
+  }
