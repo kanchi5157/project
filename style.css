@@ -161,14 +161,16 @@ h1  {
 }
 
 .box2 .kk {
-       text-align: center;
-       background-color: #898282 !important;
-       margin-top: -50px;
-       max-width: 600px;
-       z-index: 99999;
-       margin-left: auto;
-       margin-right: auto;
-       padding: 20px 20px 20px 20px;
+    text-align: center;
+    background-color: #fff;
+    margin-top: -50px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    max-width: 600px;
+    z-index: 99999;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px 20px 20px;
+}
 }
 .kk .button {
 	      color: #fff;
